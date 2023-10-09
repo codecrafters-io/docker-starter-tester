@@ -1,2 +1,1 @@
-# docker-starter-tester
-A tester for the first stage of the Docker challenge
+Moved to [https://github.com/codecrafters-io/build-your-own-docker](https://github.com/codecrafters-io/build-your-own-docker)
